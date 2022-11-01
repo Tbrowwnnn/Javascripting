@@ -1,0 +1,5 @@
+function math (argu1, argu2, argu3){
+	return math(argu2 * argu3 + argu1)
+}
+'cheese'
+
